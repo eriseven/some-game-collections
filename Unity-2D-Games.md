@@ -32,6 +32,7 @@
 
 ## Cuphead
 [Cuphead on Steam](https://store.steampowered.com/app/268910/Cuphead/)
+
 ![8be31e2175b2d7f5857bbeef2a2c2b522676b3d3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e65e0b98783444cc4824149d6cd418fc](https://hb.imgix.net/8be31e2175b2d7f5857bbeef2a2c2b522676b3d3.jpg?auto=compress,format&fit=crop&h=353&w=616&s=e65e0b98783444cc4824149d6cd418fc)
 
 
