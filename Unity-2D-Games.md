@@ -17,11 +17,11 @@
 ## Flipping Death
 [Flipping Death on Steam ](https://store.steampowered.com/app/626660/Flipping_Death/)
 
-![Flip.gif](http://www.zoinkgames.com/wp-content/uploads/2017/03/Flip.gif)
+![Flip.gif](/res/Flipping-Death-Flip.gif)
 
-![Lick.gif](http://www.zoinkgames.com/wp-content/uploads/2017/03/Lick.gif)
+![Lick.gif](/res/Flipping-Death-Lick.gif)
 
-![thunder.gif](https://unity3d.com/profiles/unity3d/themes/unity/images/case-studies/thunder.gif)
+![thunder.gif](/res/Flipping-Death-thunder.gif)
 
 ![FD3-1030x579.png](http://www.zoinkgames.com/wp-content/uploads/2017/03/FD3-1030x579.png)
 
